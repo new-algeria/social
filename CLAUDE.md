@@ -7,7 +7,7 @@ Il ne doit **jamais être référencé** ni lié depuis un site, un post ou un R
 - Publication par GitHub Pages depuis `main` (accord du propriétaire pour pousser directement sur `main`).
 - Fichiers dans `m/<identifiant aléatoire de 8 caractères>/` : jamais de nom de dossier parlant, jamais de page qui les liste.
 - `index.html` et `404.html` restent vides avec `noindex, nofollow, noarchive, noimageindex`.
-- **Dès que Buffer a copié les médias** (post créé, en brouillon), supprimer le dossier `m/<id>/` du dépôt.
+- Buffer garde l'adresse du fichier (il ne le copie pas à la création) : **laisser le dossier `m/<id>/` jusqu'à la publication du post, puis le supprimer** (le lendemain). Noter l'identifiant et la date de publication dans `m/suivi.md`.
 - Aucun secret, aucune donnée personnelle, aucune image sans droits : photos libres (avec crédit) ou fournies par le propriétaire ;
   vidéos d'autres créateurs seulement avec leur accord.
 - Les sources des visuels (modèles HTML, script de rendu) vivent dans `modeles/` ; les visuels rendus, eux, ne restent pas.
