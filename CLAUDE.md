@@ -13,6 +13,7 @@ Il ne doit **jamais être référencé** ni lié depuis un site, un post ou un R
 - Les sources des visuels (modèles HTML, script de rendu) vivent dans `modeles/` ; les visuels rendus, eux, ne restent pas.
 
 ## Format des posts (DA du propriétaire)
+- **Mettre l'Algérie en valeur à chaque post** : photo de l'Algérie en slide 1 quand c'est possible (paysage, ville, monument, fierté nationale), angle positif, chiffres qui parlent des Algériens.
 - Carrousels de 5 slides 1080 × 1350, photo réaliste et accrocheuse en haut de la slide 1.
 - Titres qui finissent par « en Algérie 🇩🇿 ». Données OpenStreetMap : « estimé(e)s ».
 - Jamais de chiffre inventé : tout est recalculé depuis les vraies données de data-dz, source citée.
