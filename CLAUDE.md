@@ -20,3 +20,4 @@ Il ne doit **jamais être référencé** ni lié depuis un site, un post ou un R
 - Instagram : 5 hashtags au plus, « lien en bio ». TikTok : « lien en bio ». Facebook : lien direct.
 - On renvoie toujours vers data-dz, jamais vers une contribution à OpenStreetMap.
 - Posts créés en **brouillon** dans Buffer : le propriétaire valide et programme.
+- **TikTok : toujours en mode rappel** (`schedulingType: notification`) : le propriétaire publie lui-même depuis l'appli pour ajouter un son tendance. Instagram et Facebook restent en publication automatique.
