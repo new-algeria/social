@@ -17,6 +17,7 @@ Il ne doit **jamais être référencé** ni lié depuis un site, un post ou un R
 - Carrousels de 5 slides 1080 × 1350, photo réaliste et accrocheuse en haut de la slide 1.
 - Titres qui finissent par « en Algérie 🇩🇿 ». Données OpenStreetMap : « estimé(e)s ».
 - Jamais de chiffre inventé : tout est recalculé depuis les vraies données de data-dz, source citée.
+- **Classements entre pays : jamais le Maroc devant l'Algérie** (rivalité). Un classement où le Maroc apparaît n'est publié que s'il est derrière l'Algérie ; sinon, on change d'angle (progression dans le temps, classement par wilaya, autre indicateur). Pas non plus de « 5ᵉ d'Afrique » qui sous-entend des voisins devant.
 - Instagram : 5 hashtags au plus, « lien en bio ». TikTok : « lien en bio ». Facebook : lien direct.
 - On renvoie toujours vers data-dz, jamais vers une contribution à OpenStreetMap.
 - Posts **programmés directement** dans Buffer (Instagram, Facebook), pas de brouillon : le propriétaire signale s'il ne valide pas un post.
