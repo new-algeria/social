@@ -15,6 +15,7 @@ Il ne doit **jamais être référencé** ni lié depuis un site, un post ou un R
 ## Format des posts (DA du propriétaire)
 - **Mettre l'Algérie en valeur à chaque post** : photo de l'Algérie en slide 1 quand c'est possible (paysage, ville, monument, fierté nationale), angle positif, chiffres qui parlent des Algériens.
 - Carrousels de 5 slides 1080 × 1350, photo réaliste et accrocheuse en haut de la slide 1.
+- **Les photos sont toujours choisies et fournies par le propriétaire** (il a l'œil) : ne jamais en chercher ni en choisir une soi-même. Pour un nouveau post, lui demander la photo ; en attendant, préparer les textes et le reste du carrousel.
 - Titres qui finissent par « en Algérie 🇩🇿 ». Données OpenStreetMap : « estimé(e)s ».
 - Jamais de chiffre inventé : tout est recalculé depuis les vraies données de data-dz, source citée.
 - **Classements entre pays : jamais le Maroc devant l'Algérie** (rivalité). Un classement où le Maroc apparaît n'est publié que s'il est derrière l'Algérie ; sinon, on change d'angle (progression dans le temps, classement par wilaya, autre indicateur). Pas non plus de « 5ᵉ d'Afrique » qui sous-entend des voisins devant.
